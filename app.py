@@ -7,9 +7,9 @@ app = Flask(__name__)
 # Configuración de la base de datos MySQL
 db_config = {
     "host": "localhost",
-    "user": "usudbquedadas",
-    "password": "2ta#2L@6xZ^F",
-    "database": "quedadas"
+    "user": "usuarioBBDD",
+    "password": "password",
+    "database": "nameBBDD"
 }
 
 # Ruta principal que obtiene eventos desde la base de datos
